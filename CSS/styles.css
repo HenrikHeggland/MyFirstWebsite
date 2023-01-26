@@ -1,0 +1,35 @@
+/* Color setup: https://colorhunt.co/palette/f5edce89c4e158287f1a0000 */
+
+body {
+    background-color: #F5EDCE;
+    color: black;
+}
+
+hr {
+    border-color: #58287F;
+    border-style: none;
+    border-top-style: dotted;
+    border-spacing: 50px;
+    border-width: 5px;
+    width: 5%;
+}
+
+a {
+    color: #1A0000;
+}
+
+h1 {
+    color: #58287F;
+}
+
+h2 {
+    color: #58287F;
+}
+
+h3 {
+    color: #58287F;
+}
+
+table {
+    background-color: #89C4E1;
+}
